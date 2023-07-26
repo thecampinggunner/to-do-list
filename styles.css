@@ -1,0 +1,9 @@
+body {
+    background-color: #E0E1DD;
+}
+
+.navbar-toggler {
+    background-color: #0D1B2A;
+    width: 100%;
+    height: 100px;
+}
